@@ -90,11 +90,10 @@ footer{
     width: 90%;
 
 }
-.items div button{
+.items div button {
     margin: 1rem;
     height: 70%;
     width: 90%;
-    border: 8px;
     background-color: #fedc51;
     color: black;
     border: none;
