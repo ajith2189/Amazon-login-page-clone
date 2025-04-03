@@ -69,11 +69,19 @@ footer{
     width: 90%;
     font-size: xx-large;
 }
-.items label{
-    margin: 0.9rem;
+.sign{
+    margin: 1rem;
     margin-bottom: 0;
     width: 90%;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: 400;
+}
+.items label{
+    margin: 0.9rem;
+    margin-bottom: -.5rem;
+    width: 90%;
+    font-weight: 400;
+    font-size: small;
 }
 
 .items div input{
@@ -158,13 +166,16 @@ footer{
 #hr{
     margin: 1rem;
     width: 90%;
+    color: rgb(103, 99, 103);
 }
+
 .center{
     height: 8vh;
     width: 28%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: -4rem;
 }
 
 .center h5{
